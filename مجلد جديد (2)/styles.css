@@ -1,0 +1,9 @@
+body{font-family:Arial, sans-serif;direction:rtl;padding:20px;background:#f4f6f8}
+main{max-width:900px;margin:0 auto}
+.card{background:#fff;padding:18px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.06);margin-bottom:12px}
+.form-row{display:flex;gap:8px;flex-wrap:wrap}
+input,button{padding:8px;border:1px solid #ddd;border-radius:4px}
+.actions{margin-top:12px;display:flex;gap:8px}
+#predictResult{padding:10px;background:#f1f7ff;border-radius:4px;margin-top:8px}
+table{width:100%;border-collapse:collapse;margin-top:12px}
+th,td{border:1px solid #eee;padding:8px;text-align:center}
